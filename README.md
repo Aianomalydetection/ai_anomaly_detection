@@ -1,5 +1,5 @@
 # AI-Driven Anomaly Detection
-
+#**X(Twitter):** [AnomalyDetection](https://x.com/anomalydet)))
 ## **Abstract**
 Anomaly detection has become a pivotal task in diverse domains such as cybersecurity, financial fraud detection, and industrial monitoring. This repository showcases a comprehensive, AI-powered anomaly detection framework leveraging clustering algorithms, mathematical rigor, and real-world adaptability. The methodology ensures robust performance in real-time applications, supported by theoretical guarantees and extensive code implementation.
 
