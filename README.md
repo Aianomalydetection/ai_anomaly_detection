@@ -1,5 +1,5 @@
 # AI-Driven Anomaly Detection
-#**X(Twitter):** [AnomalyDetection](https://x.com/anomalydet)))
+#**X(Twitter):** [AnomalyDetection](https://x.com/anomalydet)
 ## **Abstract**
 Anomaly detection has become a pivotal task in diverse domains such as cybersecurity, financial fraud detection, and industrial monitoring. This repository showcases a comprehensive, AI-powered anomaly detection framework leveraging clustering algorithms, mathematical rigor, and real-world adaptability. The methodology ensures robust performance in real-time applications, supported by theoretical guarantees and extensive code implementation.
 
@@ -162,8 +162,6 @@ pytest tests/
 ## **Contact**
 For further details or contributions, please reach out:
 - **Email:** contact@ai-detection.com
-- **GitHub:** [AI Anomaly Detection]([https://github.com/yourname/ai_anomaly_detection](https://github.com/Aianomalydetection/ai_anomaly_detection))
-
 ---
 
 **Empowering AI for a Secure Future**
