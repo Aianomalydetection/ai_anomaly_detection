@@ -122,7 +122,7 @@ print("Distance:", euclidean_distance(p1, p2))
 ### **1. Installation**
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourname/ai_anomaly_detection.git
+git clone https://github.com/Aianomalydetection/ai_anomaly_detection.git
 cd ai_anomaly_detection
 pip install -r requirements.txt
 ```
@@ -162,7 +162,7 @@ pytest tests/
 ## **Contact**
 For further details or contributions, please reach out:
 - **Email:** contact@ai-detection.com
-- **GitHub:** [AI Anomaly Detection](https://github.com/yourname/ai_anomaly_detection)
+- **GitHub:** [AI Anomaly Detection]([https://github.com/yourname/ai_anomaly_detection](https://github.com/Aianomalydetection/ai_anomaly_detection))
 
 ---
 
